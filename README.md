@@ -1,2 +1,2 @@
 #Project - Day Trip
-#My first repo
+#My first repository

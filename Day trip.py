@@ -9,7 +9,7 @@ restaurants_list = ["Bob's Burger", 'Cheesecake Factory', 'Danials Broiler', "BJ
 transportation_list = ['car', 'bike', 'uber', 'walk', 'bus']
 entertainment_list = ['concert', 'hiking', 'snorkeling', 'surfing']
 
-
+# comment to test Git
 random_destinations = random.choice(destinations_list)
 print(random_destinations)
 
